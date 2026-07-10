@@ -48,13 +48,15 @@ subject-line personalisation.
 
               A production-grade bulk email platform built with Express, BullMQ, Redis, and Postgres. It is designed to send campaigns reliably at scale with provider failover, deduplication, rate limiting, AI-assisted subject personalization, and a live dashboard for ops visibility.
 
-              ## Screenshots
+           ## Screenshots
 
-              | Brand / hero screen | Observability dashboard |
-              | --- | --- |
-              | ![Brand hero screen](./Photos/WhatsApp Image 2026-07-10 at 6.22.11 PM.jpeg) | ![Grafana-style observability dashboard](./Photos/1.jpeg) |
-              | Runtime log stream | Campaign API request |
-              | ![Server runtime logs](./Photos/2.jpeg) | ![Thunder Client campaign request](./Photos/3.jpeg) |
+| Brand / Hero Screen | Grafana-style Observability Dashboard |
+|----------------------|---------------------------------------|
+| <img src="Photos/hero.jpeg" alt="Brand Hero Screen" width="450"> | <img src="Photos/1.jpeg" alt="Grafana-style Observability Dashboard" width="450"> |
+
+| Server Runtime Log Stream | Thunder Client Campaign API Request |
+|---------------------------|-------------------------------------|
+| <img src="Photos/2.jpeg" alt="Server Runtime Logs" width="450"> | <img src="Photos/3.jpeg" alt="Thunder Client Campaign Request" width="450"> |
 
               ## What It Does
 
